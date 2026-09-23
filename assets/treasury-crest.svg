@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="320" viewBox="0 0 256 320">
+  <defs>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe9b0"/><stop offset=".22" stop-color="#b78b45"/><stop offset=".45" stop-color="#f1d7a0"/><stop offset=".62" stop-color="#74512c"/><stop offset=".82" stop-color="#dcb975"/><stop offset="1" stop-color="#f3db9f"/></linearGradient>
+    <linearGradient id="ivory" x1="0" y1="0" x2="1" y2=".4"><stop stop-color="#9a9584"/><stop offset=".2" stop-color="#eee9d8"/><stop offset=".48" stop-color="#fff5df"/><stop offset=".51" stop-color="#d6cdb5"/><stop offset="1" stop-color="#b1a793"/></linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bc3940"/><stop offset=".45" stop-color="#811c29"/><stop offset="1" stop-color="#4f101c"/></linearGradient>
+    <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 1H6" stroke="#504836" stroke-opacity=".11"/></pattern>
+  </defs>
+  <path d="M15 30Q70 39 128 14 186 39 241 30L228 164Q218 252 128 308 38 252 28 164Z" fill="#30291e" stroke="#120e09" stroke-width="8"/>
+  <path d="M15 27Q70 36 128 11 186 36 241 27L228 161Q218 249 128 305 38 249 28 161Z" fill="url(#rim)" stroke="#d4b27a" stroke-width="3"/>
+  <path d="M32 48Q83 53 128 33 173 53 224 48L211 160Q203 234 128 282 53 234 45 160Z" fill="url(#ivory)" stroke="#5e472b" stroke-width="5"/>
+  <path d="M32 48Q83 53 128 33 173 53 224 48L211 160Q203 234 128 282 53 234 45 160Z" fill="url(#grain)"/>
+  <path d="M108 58H148L144 119 202 111V153L143 148 151 225 128 248 105 225 113 148 54 153V111L112 119Z" fill="#51201d" transform="translate(0 3)"/>
+  <path d="M108 58H148L144 119 202 111V153L143 148 151 225 128 248 105 225 113 148 54 153V111L112 119Z" fill="url(#red)" stroke="#d29b70" stroke-width="2"/>
+  <path d="M116 65H139M61 120L119 127 116 70M136 157L143 223 128 239" fill="none" stroke="#e09b88" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M128 35V57M128 251V280" stroke="#fff7dd" stroke-opacity=".65" stroke-width="2"/>
+  <g fill="url(#rim)" stroke="#4e3620" stroke-width="2"><circle cx="28" cy="39" r="4"/><circle cx="228" cy="39" r="4"/><circle cx="128" cy="23" r="4"/><circle cx="39" cy="157" r="4"/><circle cx="217" cy="157" r="4"/><circle cx="128" cy="294" r="4"/></g>
+</svg>

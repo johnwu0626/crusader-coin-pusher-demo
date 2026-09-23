@@ -1,0 +1,19 @@
+Crusader Coin Pusher - third-party notices
+
+React, React DOM, Scheduler and Three.js: MIT license. Full notices are in licenses/.
+Rapier: Apache License 2.0. Full license is in licenses/.
+GSAP: Copyright (c) 2008-2026, GreenSock. All rights reserved.
+GSAP standard license: https://gsap.com/standard-license
+
+Human base mesh/rig: MakeHuman community core graphics assets, CC0.
+https://static.makehumancommunity.org/about/license.html
+
+Motion capture: Carnegie Mellon University, subject 17, trial 08; retargeted and edited for this game.
+The data used in this project was obtained from mocap.cs.cmu.edu.
+The database was created with funding from NSF EIA-0196217.
+https://mocap.cs.cmu.edu/
+Motion data is included as part of the game, not offered for sale as standalone motion data.
+CMU motion data is not CC0. Refer to the source terms.
+
+Game-specific textures and synthesized audio were created for this project.
+This distribution does not grant an open-source license to game-specific code or art.
