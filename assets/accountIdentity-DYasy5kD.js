@@ -1,0 +1,1 @@
+function e(e){if(!e||e.trim()!==e||e.length>128)throw Error(`Invalid account identity`);return`crusader-player-${encodeURIComponent(e)}`}export{e as t};
