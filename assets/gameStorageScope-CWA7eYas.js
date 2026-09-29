@@ -1,0 +1,1 @@
+import{t as e}from"./accountIdentity-DYasy5kD.js";function t(t){let n=t===null?`crusader-single-player`:e(t);return{database:n,legacyTrials:t===null?`holy-city-treasury-trials`:null,cosmetics(e){let r=e=>t===null?e:`${n}:${e}`;return{getItem:t=>e.getItem(r(t)),setItem:(t,n)=>e.setItem(r(t),n)}}}}export{t};
