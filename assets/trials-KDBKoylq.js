@@ -1,0 +1,1 @@
+import{b as e}from"./accountDeletionRecovery-BBHBPdof.js";import{t}from"./gameHost--qTeBewR.js";import{t as n}from"./TrialApp-LBIrIJUB.js";var r=e(),i=document.getElementById(`root`),a=(0,r.createRoot)(i);t(a,`trials`,n);
