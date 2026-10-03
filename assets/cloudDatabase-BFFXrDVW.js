@@ -1,0 +1,1 @@
+import{C as e,h as t,p as n}from"./accountDeletionRecovery-fvMTc-ZG.js";import{l as r,s as i}from"./index.esm-D8oeDOV7.js";var a=e({cloudDatabase:()=>s}),o=!1;async function s(e){let a=await n(),s=()=>{if(a.currentUser?.uid!==e)throw Error(`Account mismatch`)};s();let c=r(a.app);return t()&&!o&&(i(c,`127.0.0.1`,8089),o=!0),{db:c,auth:a,guard:s}}export{a as n,s as t};
