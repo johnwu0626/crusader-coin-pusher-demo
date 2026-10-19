@@ -1,0 +1,1 @@
+import{b as e}from"./accountDeletionRecovery-pZqEqz2J.js";import{t}from"./App-D7yLUvd_.js";import{t as n}from"./gameHost-B2tD916c.js";var r=e(),i=document.getElementById(`root`);if(!i)throw Error(`#root element not found`);var a=(0,r.createRoot)(i);n(a,`main`,t);
